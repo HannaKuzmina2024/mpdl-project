@@ -1,0 +1,6 @@
+.env
+config.json
+__pycash__/
+*.log
+conda/
+.conda/

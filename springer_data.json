@@ -1,0 +1,1812 @@
+[
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s10750-024-05641-z",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s10750-024-05641-z"
+            }
+        ],
+        "title":"Multi-method distribution modelling of an invasive crayfish (Pontastacus leptodactylus) at Eurasian scale",
+        "creators":[
+            {
+                "creator":"Hodson, J."
+            },
+            {
+                "ORCID":"0000-0002-6339-4225",
+                "creator":"South, J."
+            },
+            {
+                "ORCID":"0000-0002-6637-4764",
+                "creator":"Cancellario, T."
+            },
+            {
+                "ORCID":"0000-0003-2962-0863",
+                "creator":"Guareschi, S."
+            }
+        ],
+        "publicationName":"Hydrobiologia",
+        "doi":"10.1007\/s10750-024-05641-z",
+        "publisher":"Springer",
+        "publisherName":"Springer International Publishing",
+        "publicationDate":"2025-05-01",
+        "publicationType":"Journal",
+        "issn":"0018-8158",
+        "eIssn":"1573-5117",
+        "volume":"852",
+        "number":"8-9",
+        "issueType":"Combined",
+        "topicalCollection":"",
+        "genre":[
+            "OriginalPaper",
+            "INVASIVE SPECIES IV"
+        ],
+        "startingPage":"2115",
+        "endingPage":"2131",
+        "journalId":"10750",
+        "openAccess":"true",
+        "printDate":"2025-03-14",
+        "onlineDate":"2024-07-25",
+        "coverDate":"2025-05",
+        "copyright":"\u00a92024 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"Globally, human activities profoundly influence biodiversity, frequently favouring biological invasions. Crayfish, prominent invaders on multiple continents, pose significant varied threats. Using species distribution models (SDMs), this study explores the current and future potential distribution of\u00a0 Pontastacus leptodactylus , a widely introduced but under-studied crayfish, at Eurasian scale. Climate is crucial for most species\u2019 distributions and historically SDMs focused primarily on these variables, while overlooking other environmental factors influencing species occurrence. This research employed 2 approaches: one climatic and one broader environmental model encompassing soil pH and elevation data. Both methods revealed high suitability for the species, particularly currently in Central-Europe. Future climate scenarios for 2050 do not seem to favour the species in terms of intermediate-high suitability regions, with contractions also in the native regions with both approaches. However, remarkable discrepancies were observed in some North-European regions; with the climatic approach predicting high suitability where the environmental approach did not. This study identifies\u00a0 P. leptodactylus \u00a0as a widespread successful species outside its native range with potential for expansion under current conditions. The synthesised continental overview and projected distribution maps aid in prioritising monitoring and prevention efforts while underlining the importance for using environmental as well as climatic variables in SDMs."
+        },
+        "subjects":[
+            "Life Sciences",
+            "Freshwater & Marine Ecology",
+            "Ecology",
+            "Zoology"
+        ],
+        "disciplines":[
+            {
+                "id":"3512",
+                "term":"Freshwater and Marine Ecology"
+            },
+            {
+                "id":"3370",
+                "term":"Ecology"
+            },
+            {
+                "id":"3399",
+                "term":"Zoology"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s10750-024-05505-6",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s10750-024-05505-6"
+            }
+        ],
+        "title":"Assessing the impact of the invasive ctenophore Mnemiopsis leidyi on artisanal fisheries in the Venice Lagoon: an interdisciplinary approach",
+        "creators":[
+            {
+                "creator":"Piccardi, F."
+            },
+            {
+                "creator":"Poli, F."
+            },
+            {
+                "creator":"Sguotti, C."
+            },
+            {
+                "creator":"Tirelli, V."
+            },
+            {
+                "creator":"Borme, D."
+            },
+            {
+                "creator":"Mazzoldi, C."
+            },
+            {
+                "creator":"Barausse, A."
+            }
+        ],
+        "publicationName":"Hydrobiologia",
+        "doi":"10.1007\/s10750-024-05505-6",
+        "publisher":"Springer",
+        "publisherName":"Springer International Publishing",
+        "publicationDate":"2025-05-01",
+        "publicationType":"Journal",
+        "issn":"0018-8158",
+        "eIssn":"1573-5117",
+        "volume":"852",
+        "number":"8-9",
+        "issueType":"Combined",
+        "topicalCollection":"",
+        "genre":[
+            "OriginalPaper",
+            "INVASIVE SPECIES IV"
+        ],
+        "startingPage":"2387",
+        "endingPage":"2405",
+        "journalId":"10750",
+        "openAccess":"true",
+        "printDate":"2025-03-14",
+        "onlineDate":"2024-04-22",
+        "coverDate":"2025-05",
+        "copyright":"\u00a92024 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"The sea walnut, Mnemiopsis leidyi, has invaded and expanded throughout the whole Mediterranean Sea basin. Large blooms were recorded also in the Venice Lagoon (Italy), an ecosystem rich with biodiversity which supports multiple services, including artisanal fishery production. To investigate M.\u00a0leidyi impacts on lagoon artisanal fisheries, we combined fishers\u2019 local ecological knowledge, fishery landing time series analysis, and field sampling. Firstly, we interviewed artisanal fishers to date the blooms of\u00a0 M. leidyi . Secondly, we analyzed long-term fishery landings records to detect whether changes in landings quantity and composition were related to the ctenophore invasion. Thirdly, we sampled catches of the lagoon fyke nets. This interdisciplinary approach overcame the weaknesses of single methodologies and allowed us to reconstruct the temporal phases of M. leidyi invasion in the Venice Lagoon. Moreover, our results indicate that the lagoon landings significantly declined with the blooms, paralleled by the increase of water temperature. Finally, we showed that the mechanical obstruction of the nets, caused by the massive ctenophore blooms, strongly impacts fishing activities. Our results are a first step in assessing the short and long-term impacts of this invasive species on lagoon ecosystems, including its socioeconomic consequences, whose better understanding is fundamental to inform mitigation and adaptation measures."
+        },
+        "subjects":[
+            "Life Sciences",
+            "Freshwater & Marine Ecology",
+            "Ecology",
+            "Zoology"
+        ],
+        "disciplines":[
+            {
+                "id":"3512",
+                "term":"Freshwater and Marine Ecology"
+            },
+            {
+                "id":"3370",
+                "term":"Ecology"
+            },
+            {
+                "id":"3399",
+                "term":"Zoology"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s10750-024-05580-9",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s10750-024-05580-9"
+            }
+        ],
+        "title":"Differential survival of Ilyanassa obsoleta to water temperature and association with the non-native red alga Gracilaria vermiculophylla",
+        "creators":[
+            {
+                "ORCID":"0009-0007-2408-5378",
+                "creator":"Lee, Timothy S."
+            },
+            {
+                "creator":"Fowler, Amy E."
+            },
+            {
+                "creator":"Largen, Jessica R."
+            },
+            {
+                "creator":"Russo, Jonathan P."
+            },
+            {
+                "creator":"Schlegel, Zackary J."
+            },
+            {
+                "creator":"Wright, Dawson K."
+            },
+            {
+                "creator":"Blakeslee, April M. H."
+            }
+        ],
+        "publicationName":"Hydrobiologia",
+        "doi":"10.1007\/s10750-024-05580-9",
+        "publisher":"Springer",
+        "publisherName":"Springer International Publishing",
+        "publicationDate":"2025-05-01",
+        "publicationType":"Journal",
+        "issn":"0018-8158",
+        "eIssn":"1573-5117",
+        "volume":"852",
+        "number":"8-9",
+        "issueType":"Combined",
+        "topicalCollection":"",
+        "genre":[
+            "OriginalPaper",
+            "INVASIVE SPECIES IV"
+        ],
+        "startingPage":"2013",
+        "endingPage":"2028",
+        "journalId":"10750",
+        "openAccess":"true",
+        "printDate":"2025-03-14",
+        "onlineDate":"2024-07-08",
+        "coverDate":"2025-05",
+        "copyright":"\u00a92024 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"Along the U.S. east coast, the widespread non-native red alga Gracilaria vermiculophylla provides habitat for an array of macroinvertebrates, including the eastern mudsnail Ilyanassa obsoleta . Though I. obsoleta tolerates a wide temperature range, increases in summer water temperatures may enhance mortality; furthermore, the presence of non-native algae in rising seawater temperatures could exacerbate harmful conditions. We tested how the presence or absence of G. vermiculophylla influenced snail mortality across a range of summer temperatures over a 3-week period. We found that I. obsoleta survived the longest in the lowest temperature (27\u00a0\u00b0C), followed by the medium (32\u00a0\u00b0C), and lastly the highest (36\u00a0\u00b0C) where all snails died within 2\u00a0days. Mortality was also higher and faster for snails in the presence versus absence of G. vermiculophylla . We suspected dissolved oxygen became very low at the higher temperatures with G. vermiculophylla ; thus we conducted a laboratory-based dissolved oxygen experiment. We found that G. vermiculophylla degraded and oxygen declined faster at the highest temperature treatment, thereby creating anoxic conditions. Altogether, our results demonstrate that G. vermiculophylla could enhance anoxic conditions at high summer temperatures, potentially leading to enhanced faunal mortality."
+        },
+        "subjects":[
+            "Life Sciences",
+            "Freshwater & Marine Ecology",
+            "Ecology",
+            "Zoology"
+        ],
+        "disciplines":[
+            {
+                "id":"3512",
+                "term":"Freshwater and Marine Ecology"
+            },
+            {
+                "id":"3370",
+                "term":"Ecology"
+            },
+            {
+                "id":"3399",
+                "term":"Zoology"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s10750-024-05533-2",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s10750-024-05533-2"
+            }
+        ],
+        "title":"Movements and habitat use of native and invasive piscivorous fishes in a temperate and channelized lowland river",
+        "creators":[
+            {
+                "creator":"Nolan, Emma T."
+            },
+            {
+                "creator":"Hindes, Andrew M."
+            },
+            {
+                "creator":"Bolland, Jonathan D."
+            },
+            {
+                "creator":"Davies, Peter"
+            },
+            {
+                "creator":"Gutmann Roberts, Catherine"
+            },
+            {
+                "creator":"Tarkan, Ali Serhan"
+            },
+            {
+                "ORCID":"0000-0003-1853-3086",
+                "creator":"Britton, J. Robert"
+            }
+        ],
+        "publicationName":"Hydrobiologia",
+        "doi":"10.1007\/s10750-024-05533-2",
+        "publisher":"Springer",
+        "publisherName":"Springer International Publishing",
+        "publicationDate":"2025-05-01",
+        "publicationType":"Journal",
+        "issn":"0018-8158",
+        "eIssn":"1573-5117",
+        "volume":"852",
+        "number":"8-9",
+        "issueType":"Combined",
+        "topicalCollection":"",
+        "genre":[
+            "OriginalPaper",
+            "INVASIVE SPECIES IV"
+        ],
+        "startingPage":"2187",
+        "endingPage":"2206",
+        "journalId":"10750",
+        "openAccess":"true",
+        "printDate":"2025-03-14",
+        "onlineDate":"2024-04-16",
+        "coverDate":"2025-05",
+        "copyright":"\u00a92024 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"Lowland temperate rivers provide important habitats for piscivorous fishes, but with their year-round spatial and temporal habitat use is often poorly understood, including their use of off-channel habitats. Here, the movements and habitat use of the piscivorous native Northern pike Esox lucius and invasive pikeperch Sander lucioperca were investigated using acoustic telemetry in the highly regulated (through impoundment) lower River Severn, Western England over a 12-month period, where off-channel habitat availability was limited to a single boat marina. The movements of both species varied with season and temperature, with both species moving greater distances in spring. Increasing water temperatures up to 15\u00a0\u00b0C resulted in a higher frequency of movements of both species, but movements then decreased at temperatures higher than this. Northern pike detections in the river increased in periods of lower river discharge and warmer temperatures, with the off-channel refuge providing an important habitat all year round (78% of detections occurred there). While 63% of pikeperch detections also occurred in the marina, 89% of these detections occurred between December and April. These results thus emphasise the importance of this limited off-channel habitat as potential spawning locations for invasive pikeperch and foraging areas for native Northern pike."
+        },
+        "subjects":[
+            "Life Sciences",
+            "Freshwater & Marine Ecology",
+            "Ecology",
+            "Zoology"
+        ],
+        "disciplines":[
+            {
+                "id":"3512",
+                "term":"Freshwater and Marine Ecology"
+            },
+            {
+                "id":"3370",
+                "term":"Ecology"
+            },
+            {
+                "id":"3399",
+                "term":"Zoology"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s10750-024-05658-4",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s10750-024-05658-4"
+            }
+        ],
+        "title":"Stable isotope analysis reveals fish juveniles as a temporal main resource consumed by invasive pumpkinseed (Lepomis gibbosus)",
+        "creators":[
+            {
+                "ORCID":"0009-0003-8268-2075",
+                "creator":"Hnili\u010dka, Michal"
+            },
+            {
+                "ORCID":"0000-0001-6264-6091",
+                "creator":"Jan\u00e1\u010d, Michal"
+            },
+            {
+                "creator":"Palupov\u00e1, Eva"
+            },
+            {
+                "ORCID":"0000-0003-2716-8375",
+                "creator":"Tkachenko, Maria Yu."
+            },
+            {
+                "ORCID":"0000-0002-5407-7594",
+                "creator":"Hork\u00e1, Petra"
+            },
+            {
+                "ORCID":"0000-0002-3166-9175",
+                "creator":"Jandov\u00e1, Kate\u0159ina"
+            },
+            {
+                "creator":"Holubov\u00e1, Kate\u0159ina"
+            },
+            {
+                "ORCID":"0000-0002-4651-0415",
+                "creator":"Jurajda, Pavel"
+            },
+            {
+                "ORCID":"0000-0003-0933-806X",
+                "creator":"Ondra\u010dkov\u00e1, Mark\u00e9ta"
+            }
+        ],
+        "publicationName":"Hydrobiologia",
+        "doi":"10.1007\/s10750-024-05658-4",
+        "publisher":"Springer",
+        "publisherName":"Springer International Publishing",
+        "publicationDate":"2025-05-01",
+        "publicationType":"Journal",
+        "issn":"0018-8158",
+        "eIssn":"1573-5117",
+        "volume":"852",
+        "number":"8-9",
+        "issueType":"Combined",
+        "topicalCollection":"",
+        "genre":[
+            "OriginalPaper",
+            "INVASIVE SPECIES IV"
+        ],
+        "startingPage":"2409",
+        "endingPage":"2426",
+        "journalId":"10750",
+        "openAccess":"true",
+        "printDate":"2025-03-14",
+        "onlineDate":"2024-08-07",
+        "coverDate":"2025-05",
+        "copyright":"\u00a92024 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"The pumpkinseed Lepomis gibbosus (Linnaeus, 1758) is a small centrarchid fish species from North America that has invaded most European basins, with pronounced expected impacts. Analyses of pumpkinseed diet in its invasive range using gut content analysis (GCA) show macrozoobenthos as the most common dietary item, suggesting a competitive effect on native fish communities. Our study uses a combination of GCA and stable isotope analysis (SIA) to document pumpkinseed diet at two sites in its invaded range and relates pumpkinseed diet preferences with parasitic load. SIA revealed juvenile fish as a major prey item at one of the sites (63 and 50% of the diet of small and the large fish), while GCA showed pumpkinseed preying mostly on macroinvertebrates (chironomids, gastropods, Ephemeroptera, and Zygoptera larvae) at both sites. While infrequent infection by trophically transmitted parasitic nematodes could be related to low consumption of zooplankton, substantial infection by metacercariae of Posthodiplostomum centrarchi Hoffman1958 appears to reflect relatively high consumption rates of its intermediate host, physid snails. Using SIA allowed to demonstrate that pumpkinseed feeding in its non-native range can be based on piscivory, emphasising the need for combining multiple methods when studying the impact of non-native species on food webs."
+        },
+        "subjects":[
+            "Life Sciences",
+            "Freshwater & Marine Ecology",
+            "Ecology",
+            "Zoology"
+        ],
+        "disciplines":[
+            {
+                "id":"3512",
+                "term":"Freshwater and Marine Ecology"
+            },
+            {
+                "id":"3370",
+                "term":"Ecology"
+            },
+            {
+                "id":"3399",
+                "term":"Zoology"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s10750-024-05619-x",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s10750-024-05619-x"
+            }
+        ],
+        "title":"Universal framework for assessing the environmental impact of marine non-indigenous species in different situations of data availability",
+        "creators":[
+            {
+                "ORCID":"0000-0002-4970-6755",
+                "creator":"Kotta, Jonne"
+            },
+            {
+                "creator":"Ojaveer, Henn"
+            },
+            {
+                "creator":"Kaasik, Ants"
+            },
+            {
+                "creator":"Szava-Kovats, Robert"
+            },
+            {
+                "creator":"Nurkse, Kristiina"
+            },
+            {
+                "creator":"Outinen, Okko"
+            },
+            {
+                "creator":"Einberg, Heli"
+            },
+            {
+                "creator":"Zaiko, Anastasija"
+            },
+            {
+                "creator":"Lehtiniemi, Maiju"
+            },
+            {
+                "creator":"Orav-Kotta, Helen"
+            },
+            {
+                "creator":"Barboza, Francisco R."
+            }
+        ],
+        "publicationName":"Hydrobiologia",
+        "doi":"10.1007\/s10750-024-05619-x",
+        "publisher":"Springer",
+        "publisherName":"Springer International Publishing",
+        "publicationDate":"2025-05-01",
+        "publicationType":"Journal",
+        "issn":"0018-8158",
+        "eIssn":"1573-5117",
+        "volume":"852",
+        "number":"8-9",
+        "issueType":"Combined",
+        "topicalCollection":"",
+        "genre":[
+            "ReviewPaper",
+            "INVASIVE SPECIES IV"
+        ],
+        "startingPage":"2507",
+        "endingPage":"2519",
+        "journalId":"10750",
+        "openAccess":"true",
+        "printDate":"2025-03-14",
+        "onlineDate":"2024-06-25",
+        "coverDate":"2025-05",
+        "copyright":"\u00a92024 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"Current methods for assessing the environmental impacts of marine non-indigenous species (NIS) are limited by insufficient data, an over-reliance on expert judgement and too coarse a spatial resolution, which hampers accurate local management. However, advances in data-driven analyses offer significant potential for developing more comprehensive and accurate frameworks for assessing the impacts of NIS in marine ecosystems. This study fills this major gap in NIS management by proposing a comprehensive and practical framework that integrates systematic reviews, meta-analyses, species distribution modelling, and expert judgement to assess NIS impacts across varying levels of information availability. The framework also recommends complementary, under-utilised data sources, and tools to reduce significantly existing information constraints. The framework presented in this study not only advances scientific understanding of NIS impacts by providing a scalable and adaptable framework for assessing NIS impacts in different ecological contexts, but also provides practical tools for environmental managers implementing legislation on NIS. We recognise that although our data-driven approach to NIS management is best handled by specialists, maximising its potential requires making the information accessible and user-friendly to a broader audience. This can be achieved through digital tools that simplify and facilitate the understanding of these assessments for environmental managers."
+        },
+        "subjects":[
+            "Life Sciences",
+            "Freshwater & Marine Ecology",
+            "Ecology",
+            "Zoology"
+        ],
+        "disciplines":[
+            {
+                "id":"3512",
+                "term":"Freshwater and Marine Ecology"
+            },
+            {
+                "id":"3370",
+                "term":"Ecology"
+            },
+            {
+                "id":"3399",
+                "term":"Zoology"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s10750-024-05624-0",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s10750-024-05624-0"
+            }
+        ],
+        "title":"Interspecific variation in the defensive responses of brown frogs to alien predators",
+        "creators":[
+            {
+                "creator":"Gazzola, Andrea"
+            },
+            {
+                "creator":"Balestrieri, Alessandro"
+            },
+            {
+                "creator":"Martinelli, Mattia"
+            },
+            {
+                "creator":"Rocchetta, Sara"
+            },
+            {
+                "creator":"Iori, Alberto"
+            },
+            {
+                "ORCID":"0000-0002-2651-8153",
+                "creator":"Pellitteri-Rosa, Daniele"
+            }
+        ],
+        "publicationName":"Hydrobiologia",
+        "doi":"10.1007\/s10750-024-05624-0",
+        "publisher":"Springer",
+        "publisherName":"Springer International Publishing",
+        "publicationDate":"2025-05-01",
+        "publicationType":"Journal",
+        "issn":"0018-8158",
+        "eIssn":"1573-5117",
+        "volume":"852",
+        "number":"8-9",
+        "issueType":"Combined",
+        "topicalCollection":"",
+        "genre":[
+            "OriginalPaper",
+            "INVASIVE SPECIES IV"
+        ],
+        "startingPage":"2493",
+        "endingPage":"2505",
+        "journalId":"10750",
+        "openAccess":"true",
+        "printDate":"2025-03-14",
+        "onlineDate":"2024-06-25",
+        "coverDate":"2025-05",
+        "copyright":"\u00a92024 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"Alien species impact native amphibians through various direct effects, including predation, and pose a significant threat to na\u00efve prey populations. In this study, we exposed tadpoles of three brown frog species ( Rana dalmatina , Rana latastei , and Rana temporaria ) to the olfactory cues of two alien predators, the pond slider ( Trachemys scripta ) and red swamp crayfish ( Procambarus clarkii ), and compared their responses to those induced by the aquatic larvae of a widespread native predator, the Southern hawker ( Aeshna cyanea ). We recorded two tadpole defensive behaviors, the proportion of time they were active and the number of freezing events. Both agile frog species, R. dalmatina and R. latastei , showed moderate responses to red swamp crayfish kairomones and strong responses to both odonate larvae and pond sliders. In contrast, the common frog ( R. temporaria ) displayed a less intense response to crayfish with respect to odonate larvae, and a negligible response to pond sliders. Long-lasting coexistence with either European pond turtles or pond sliders may explain the strength of agile frogs\u2019 response toward the alien species; while, the historical range of the white-clawed crayfish ( Austropotamobius pallipes ) overlapped that of the common frog, enhancing the co-option of alien crayfish cues by this anuran species."
+        },
+        "subjects":[
+            "Life Sciences",
+            "Freshwater & Marine Ecology",
+            "Ecology",
+            "Zoology"
+        ],
+        "disciplines":[
+            {
+                "id":"3512",
+                "term":"Freshwater and Marine Ecology"
+            },
+            {
+                "id":"3370",
+                "term":"Ecology"
+            },
+            {
+                "id":"3399",
+                "term":"Zoology"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s11600-024-01457-6",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s11600-024-01457-6"
+            }
+        ],
+        "title":"Projection of climate change impact on main climate variables and assessment of the future of K\u00f6ppen\u2013Geiger climate classification in Iran",
+        "creators":[
+            {
+                "ORCID":"0000-0002-3311-0228",
+                "creator":"Ghazi, Babak"
+            },
+            {
+                "creator":"Salehi, Hossein"
+            },
+            {
+                "creator":"Cheshami, Morteza"
+            },
+            {
+                "creator":"Zeydalinejad, Nejat"
+            },
+            {
+                "creator":"Linh, Nguyen Thi Thuy"
+            }
+        ],
+        "publicationName":"Acta Geophysica",
+        "doi":"10.1007\/s11600-024-01457-6",
+        "publisher":"Springer",
+        "publisherName":"Springer International Publishing",
+        "publicationDate":"2025-04-01",
+        "publicationType":"Journal",
+        "issn":"",
+        "eIssn":"1895-7455",
+        "volume":"73",
+        "number":"2",
+        "issueType":"Regular",
+        "topicalCollection":"",
+        "genre":[
+            "OriginalPaper",
+            "Research Article - Atmospheric & Space Sciences"
+        ],
+        "startingPage":"2017",
+        "endingPage":"2027",
+        "journalId":"11600",
+        "openAccess":"true",
+        "printDate":null,
+        "onlineDate":"2024-10-16",
+        "coverDate":"2025-04",
+        "copyright":"\u00a92024 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"Human society and the environment are facing significant challenges due to climate change. Climate change is projected to impact main climate variables, such as temperature and precipitation. Changes in main climate variables affect climate classification and alter climate zone maps. In this research, first, the projection of temperature and precipitation in 30 main stations of Iran under the Shared Socioeconomic Pathways scenarios (SSP1-2.6, SSP2-4.5, and SSP5-8.5) from Coupled Model Intercomparison Project Phase Six (CMIP6) for the end of the twenty-first century (2071\u20132099) was carried out. Then, the future of climate zone maps was assessed in Iran by K\u00f6ppen-Geiger climate classification. The evaluation of the model data based on observation data for the period of 1991\u20132020 showed an acceptable correlation, with R-square and RMSE values in the ranges of 0.67\u20130.96 and 2.44\u20138.38, respectively. Results showed that the temperature in the future period (2071\u20132099) will increase by 1\u20134.7\u00a0\u00b0C under all scenarios compared to the historical study period (1991\u20132020), while the precipitation will either increase or decrease depending on the season and the specific climate change scenario. Assessment of future climate classifications revealed that the BW (arid desert) and BS (semi-arid steppe) categories will increase, as classified by K\u00f6ppen-Geiger, will increase. At the same time, Ds and Cs (dry summer) classifications will decrease in during the study period over Iran. These findings provide policymakers with some insights into how to deal with the impacts of climate change in the future and implement some measures now."
+        },
+        "subjects":[
+            "Earth Sciences",
+            "Geophysics\/Geodesy",
+            "Structural Geology",
+            "Geotechnical Engineering & Applied Earth Sciences"
+        ],
+        "disciplines":[
+            {
+                "id":"5966",
+                "term":"Geophysics"
+            },
+            {
+                "id":"3981",
+                "term":"Geology"
+            },
+            {
+                "id":"6198",
+                "term":"Geotechnical Engineering and Applied Earth Sciences"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s13280-024-02093-6",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s13280-024-02093-6"
+            }
+        ],
+        "title":"The use of multiple evidence base methods to enrich climate change research and knowledge in the Arctic",
+        "creators":[
+            {
+                "ORCID":"0009-0002-2023-6144",
+                "creator":"Heatta, M\u00e1ret J."
+            },
+            {
+                "ORCID":"0000-0001-9825-0419",
+                "creator":"Hausner, Vera Helene"
+            },
+            {
+                "ORCID":"0000-0003-0776-2369",
+                "creator":"Utsi, Tove Aagnes"
+            }
+        ],
+        "publicationName":"Ambio",
+        "doi":"10.1007\/s13280-024-02093-6",
+        "publisher":"Springer",
+        "publisherName":"Springer Netherlands",
+        "publicationDate":"2025-04-01",
+        "publicationType":"Journal",
+        "issn":"0044-7447",
+        "eIssn":"1654-7209",
+        "volume":"54",
+        "number":"4",
+        "issueType":"Regular",
+        "topicalCollection":"",
+        "genre":[
+            "ReviewPaper",
+            "Review"
+        ],
+        "startingPage":"603",
+        "endingPage":"617",
+        "journalId":"13280",
+        "openAccess":"true",
+        "printDate":"2025-02-28",
+        "onlineDate":"2025-01-25",
+        "coverDate":"2025-04",
+        "copyright":"\u00a92025 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"Indigenous and local knowledge (ILK) is increasingly used along with scientific knowledge (SK) to understand climate change. The multi evidence base (MEB) offers ways of combining knowledge systems together. Nonetheless, there is little guidance on how to use MEB approaches in research. Our aim is to systematically evaluate empirical cases using MEB approaches in Arctic climate change research; and explore ILK inclusion in research stages. The mapping followed the ROSES protocol, which provides a checklist of details to be included in the review. The literature search identified 1483 records referring to MEB approaches. We identified seven papers applying the cross-fertilization and nine applying the coproduction approach to combine ILK with SK. The theory of change framework was used to evaluate participation, revealing a distinct difference between the approaches in participant involvement in the research stages. Regardless of MEB approach, the output and outcome of the cases were less clear."
+        },
+        "subjects":[
+            "Environment",
+            "Environment, general",
+            "Ecology",
+            "Atmospheric Sciences",
+            "Physical Geography",
+            "Environmental Management",
+            "Environmental Engineering\/Biotechnology"
+        ],
+        "disciplines":[
+            {
+                "id":"3038",
+                "term":"Environmental Sciences"
+            },
+            {
+                "id":"3370",
+                "term":"Ecology"
+            },
+            {
+                "id":"3583",
+                "term":"Atmospheric Science"
+            },
+            {
+                "id":"4125",
+                "term":"Physical Geography"
+            },
+            {
+                "id":"3693",
+                "term":"Environmental Management"
+            },
+            {
+                "id":"4052",
+                "term":"Environmental Engineering\/Biotechnology"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s41463-024-00189-5",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s41463-024-00189-5"
+            }
+        ],
+        "title":"Navigating Emerging Climate Crises Through Adaptive Polycentric Meta-networks",
+        "creators":[
+            {
+                "ORCID":"0009-0002-9726-3159",
+                "creator":"Staub, Tim"
+            },
+            {
+                "ORCID":"0000-0002-6393-3890",
+                "creator":"Tirmizi, S. Aqeel"
+            }
+        ],
+        "publicationName":"Humanistic Management Journal",
+        "doi":"10.1007\/s41463-024-00189-5",
+        "publisher":"Springer",
+        "publisherName":"Springer International Publishing",
+        "publicationDate":"2025-04-01",
+        "publicationType":"Journal",
+        "issn":"2366-603X",
+        "eIssn":"2366-6048",
+        "volume":"10",
+        "number":"1",
+        "issueType":"Regular",
+        "topicalCollection":"",
+        "genre":[
+            "OriginalPaper",
+            "Original Research"
+        ],
+        "startingPage":"165",
+        "endingPage":"181",
+        "journalId":"41463",
+        "openAccess":"true",
+        "printDate":"2025-02-20",
+        "onlineDate":"2024-11-11",
+        "coverDate":"2025-04",
+        "copyright":"\u00a92024 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"Without urgent, systemic, and collective global interventions to address the emerging climate emergency, we are likely to continue to see a range of increasingly significant adverse impacts globally. Temperatures will continue to increase, ice shelves will melt, seas will rise, crops will fail, water scarcity will increase and spread, wildfires will accelerate, and food and water insecurity, violence, and the largest human migration in history will ensue. According to the Institute for Economics and Peace (IEP), these climate changes will displace over 1.2\u00a0billion people by 2050 at a rate currently exceeding 21.5\u00a0million people per year. This mass migration will create incredible burdens on political, legal, economic, agricultural, educational, and health infrastructures in future host countries, and we are globally unprepared. It is well-recognized that the solution to these crises lies in our collective awakening by embracing complexity and employing bold and holistic perspectives. However, theoretical and applied advancements that may meaningfully inform practical approaches to urgently address climate related threats remain scattered and insufficient. The purpose of our proposed paper is to advance the concept of adaptive polycentric meta-networks (APMNs) as a partial solution to collectively address climate crises. We draw upon key insights from works on polycentricity, complexity leadership, and meta-networks, to arrive at our integrative framework. We also discuss ways that the proposed framework aligns with the dynamics of collective mindfulness and practical wisdom, particularly to facilitate cross-sector and global collaborations, across cultures and spiritual practices, to achieve the climate change goals at a macro scale. We believe that our framework offers an important conceptual and practical pathway to tackle the complex dynamics of climate change, and to generate the needed collective sensemaking and awareness to awaken, engage, and align collective leadership where it is needed, at global, national, regional and local levels and across governments, NGOs, and corporate interests."
+        },
+        "subjects":[
+            "Philosophy",
+            "Business Ethics",
+            "Business and Management, general",
+            "Management",
+            "Quality of Life Research"
+        ],
+        "disciplines":[
+            {
+                "id":"4718",
+                "term":"Business Ethics"
+            },
+            {
+                "id":"3120",
+                "term":"Business and Management"
+            },
+            {
+                "id":"3248",
+                "term":"Management"
+            },
+            {
+                "id":"4566",
+                "term":"Quality of Life Research"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s13280-024-02111-7",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s13280-024-02111-7"
+            }
+        ],
+        "title":"Water conflicts under climate change: Research gaps and priorities",
+        "creators":[
+            {
+                "ORCID":"0000-0003-3424-3847",
+                "creator":"K\u00e5resdotter, Elisie"
+            },
+            {
+                "creator":"Destouni, Georgia"
+            },
+            {
+                "creator":"Lammers, Richard B."
+            },
+            {
+                "creator":"Keskinen, Marko"
+            },
+            {
+                "creator":"Pan, Haozhi"
+            },
+            {
+                "creator":"Kalantari, Zahra"
+            }
+        ],
+        "publicationName":"Ambio",
+        "doi":"10.1007\/s13280-024-02111-7",
+        "publisher":"Springer",
+        "publisherName":"Springer Netherlands",
+        "publicationDate":"2025-04-01",
+        "publicationType":"Journal",
+        "issn":"0044-7447",
+        "eIssn":"1654-7209",
+        "volume":"54",
+        "number":"4",
+        "issueType":"Regular",
+        "topicalCollection":"",
+        "genre":[
+            "ReviewPaper",
+            "Review"
+        ],
+        "startingPage":"618",
+        "endingPage":"631",
+        "journalId":"13280",
+        "openAccess":"true",
+        "printDate":"2025-02-28",
+        "onlineDate":"2025-01-31",
+        "coverDate":"2025-04",
+        "copyright":"\u00a92025 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"Climate change is known to worsen conflicts, but its combination with other factors affecting water-related conflicts remains less explored. Using a scoping review, this study examined research in the climate\u2013water\u2013conflict nexus. Using semi-automatic text mining approaches, key research gaps and differences in conflict factors and themes across different regions and conflict types were analyzed. Studies focused on Asia and Africa, with few exploring other regions. Governance and livelihoods emerged as significant factors in water-related conflict responses worldwide, with differences across regions. For instance, farmer\u2013herder conflicts were common in Africa, while agriculture was more related to governance and water management in Asia. Research priorities forward should diversify the range of water-related conflict subjects and regions and give special focus to regions vulnerable to hydroclimatic change. More focus on cooperation and non-violent conflicts is also vital for understanding and being able to project and mitigate future water-related conflict responses to climate change."
+        },
+        "subjects":[
+            "Environment",
+            "Environment, general",
+            "Ecology",
+            "Atmospheric Sciences",
+            "Physical Geography",
+            "Environmental Management",
+            "Environmental Engineering\/Biotechnology"
+        ],
+        "disciplines":[
+            {
+                "id":"3038",
+                "term":"Environmental Sciences"
+            },
+            {
+                "id":"3370",
+                "term":"Ecology"
+            },
+            {
+                "id":"3583",
+                "term":"Atmospheric Science"
+            },
+            {
+                "id":"4125",
+                "term":"Physical Geography"
+            },
+            {
+                "id":"3693",
+                "term":"Environmental Management"
+            },
+            {
+                "id":"4052",
+                "term":"Environmental Engineering\/Biotechnology"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s13280-024-02101-9",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s13280-024-02101-9"
+            }
+        ],
+        "title":"Cascading tipping points of Antarctica and the Southern Ocean",
+        "creators":[
+            {
+                "ORCID":"0000-0003-3264-7899",
+                "creator":"Kubiszewski, Ida"
+            },
+            {
+                "creator":"Adams, Vanessa M."
+            },
+            {
+                "creator":"Baird, Rachel"
+            },
+            {
+                "creator":"Boothroyd, Anne"
+            },
+            {
+                "creator":"Costanza, Robert"
+            },
+            {
+                "creator":"MacDonald, Darla Hatton"
+            },
+            {
+                "creator":"Finau, Glenn"
+            },
+            {
+                "creator":"Fulton, Elizabeth A."
+            },
+            {
+                "creator":"King, Catherine K."
+            },
+            {
+                "creator":"King, Matt A."
+            },
+            {
+                "creator":"Lannuzel, Delphine"
+            },
+            {
+                "creator":"Leane, Elizabeth"
+            },
+            {
+                "creator":"Melbourne-Thomas, Jess"
+            },
+            {
+                "creator":"Ooi, Can-Seng"
+            },
+            {
+                "creator":"Raghavan, Mala"
+            },
+            {
+                "creator":"Senigaglia, Valeria"
+            },
+            {
+                "creator":"Stoeckl, Natalie"
+            },
+            {
+                "creator":"Tian, Jing"
+            },
+            {
+                "creator":"Yamazaki, Satoshi"
+            }
+        ],
+        "publicationName":"Ambio",
+        "doi":"10.1007\/s13280-024-02101-9",
+        "publisher":"Springer",
+        "publisherName":"Springer Netherlands",
+        "publicationDate":"2025-04-01",
+        "publicationType":"Journal",
+        "issn":"0044-7447",
+        "eIssn":"1654-7209",
+        "volume":"54",
+        "number":"4",
+        "issueType":"Regular",
+        "topicalCollection":"",
+        "genre":[
+            "OriginalPaper",
+            "Perspective"
+        ],
+        "startingPage":"642",
+        "endingPage":"659",
+        "journalId":"13280",
+        "openAccess":"true",
+        "printDate":"2025-02-28",
+        "onlineDate":"2024-12-10",
+        "coverDate":"2025-04",
+        "copyright":"\u00a92024 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"Antarctica and the Southern Ocean are key elements in the physical and biological Earth system. Human-induced climate change, and other human activities in the region, are leading to several potential interacting tipping points with major and irreversible consequences. Here, we examine eight potential physical, biological, chemical, and social Antarctic tipping points. These include ice sheets, ocean acidification, ocean circulation, species redistribution, invasive species, permafrost melting, local pollution, and the Antarctic Treaty System. We discuss the nature of each potential tipping point, its control variables, thresholds, timescales, and impacts, and focus on the potential for cumulative and cascading effects as a result of their interactions. The analysis provides substantial evidence of the need for more concerted and rapid action to limit climate change and to minimise the impacts of local human activities to avoid these cascading tipping points."
+        },
+        "subjects":[
+            "Environment",
+            "Environment, general",
+            "Ecology",
+            "Atmospheric Sciences",
+            "Physical Geography",
+            "Environmental Management",
+            "Environmental Engineering\/Biotechnology"
+        ],
+        "disciplines":[
+            {
+                "id":"3038",
+                "term":"Environmental Sciences"
+            },
+            {
+                "id":"3370",
+                "term":"Ecology"
+            },
+            {
+                "id":"3583",
+                "term":"Atmospheric Science"
+            },
+            {
+                "id":"4125",
+                "term":"Physical Geography"
+            },
+            {
+                "id":"3693",
+                "term":"Environmental Management"
+            },
+            {
+                "id":"4052",
+                "term":"Environmental Engineering\/Biotechnology"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s13280-024-02099-0",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s13280-024-02099-0"
+            }
+        ],
+        "title":"Effect of farm size on vulnerability in beekeeping: Insights from mediterranean Spain",
+        "creators":[
+            {
+                "ORCID":"0000-0003-4908-4017",
+                "creator":"L\u00f3pez-i-Gelats, Feliu"
+            },
+            {
+                "creator":"Hobbelink, Erik"
+            },
+            {
+                "creator":"Llaurador, Paula"
+            },
+            {
+                "ORCID":"0000-0001-8183-8398",
+                "creator":"Rivera-Ferre, Marta G."
+            }
+        ],
+        "publicationName":"Ambio",
+        "doi":"10.1007\/s13280-024-02099-0",
+        "publisher":"Springer",
+        "publisherName":"Springer Netherlands",
+        "publicationDate":"2025-04-01",
+        "publicationType":"Journal",
+        "issn":"0044-7447",
+        "eIssn":"1654-7209",
+        "volume":"54",
+        "number":"4",
+        "issueType":"Regular",
+        "topicalCollection":"",
+        "genre":[
+            "OriginalPaper",
+            "Research Article"
+        ],
+        "startingPage":"696",
+        "endingPage":"713",
+        "journalId":"13280",
+        "openAccess":"true",
+        "printDate":"2025-02-28",
+        "onlineDate":"2024-12-11",
+        "coverDate":"2025-04",
+        "copyright":"\u00a92024 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"There is broad consensus on the socioeconomic importance of beekeeping and the essential services it provides through pollination. However, beekeeping is being impacted by global environmental changes, and more specific insights are needed. Beekeeping is not a homogeneous activity; it is practiced in various ways and contexts. This study examines how these changes affect beekeeping operations of different sizes in Mediterranean Spain and whether size influences adaptation. Structured interviews were conducted to assess the sector's vulnerability, with climate change identified as a key contributing factor. The findings reveal that the vulnerability of beekeeping is shaped not only by multiple transformations but also by the diverse adaptive capacities of beekeepers. Additionally, the size of beekeeping operations significantly influences this capacity, a factor that should be integrated into policymaking given the sector\u2019s highly polarized nature."
+        },
+        "subjects":[
+            "Environment",
+            "Environment, general",
+            "Ecology",
+            "Atmospheric Sciences",
+            "Physical Geography",
+            "Environmental Management",
+            "Environmental Engineering\/Biotechnology"
+        ],
+        "disciplines":[
+            {
+                "id":"3038",
+                "term":"Environmental Sciences"
+            },
+            {
+                "id":"3370",
+                "term":"Ecology"
+            },
+            {
+                "id":"3583",
+                "term":"Atmospheric Science"
+            },
+            {
+                "id":"4125",
+                "term":"Physical Geography"
+            },
+            {
+                "id":"3693",
+                "term":"Environmental Management"
+            },
+            {
+                "id":"4052",
+                "term":"Environmental Engineering\/Biotechnology"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s13280-024-02115-3",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s13280-024-02115-3"
+            }
+        ],
+        "title":"It would feel weird to not drive my car! Exploring the role of habits in public policy acceptance of carbon taxations",
+        "creators":[
+            {
+                "ORCID":"0000-0003-4486-3644",
+                "creator":"Linder, Noah"
+            },
+            {
+                "creator":"S\u00f6rqvist, Patrik"
+            },
+            {
+                "creator":"Lindvall, Daniel"
+            },
+            {
+                "creator":"Jagers, Sverker"
+            },
+            {
+                "creator":"Barthel, Stephan"
+            }
+        ],
+        "publicationName":"Ambio",
+        "doi":"10.1007\/s13280-024-02115-3",
+        "publisher":"Springer",
+        "publisherName":"Springer Netherlands",
+        "publicationDate":"2025-04-01",
+        "publicationType":"Journal",
+        "issn":"0044-7447",
+        "eIssn":"1654-7209",
+        "volume":"54",
+        "number":"4",
+        "issueType":"Regular",
+        "topicalCollection":"",
+        "genre":[
+            "OriginalPaper",
+            "Research Article"
+        ],
+        "startingPage":"670",
+        "endingPage":"679",
+        "journalId":"13280",
+        "openAccess":"true",
+        "printDate":"2025-02-28",
+        "onlineDate":"2024-12-21",
+        "coverDate":"2025-04",
+        "copyright":"\u00a92024 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"This study aims to expand the understanding of public acceptance of carbon taxes by exploring the role of habits. Habits play a pivotal role in guiding our behaviors and reasoning and can even influence our self perception and identity but remain an underexplored variable in relation to public policy acceptance. We employed a large scale ( N \u2009>\u20095200) national survey to measure public acceptance of higher carbon taxation in Sweden, also capturing car driving habits, car usage, and other relevant variables. The findings show that habit strength is negatively correlated with policy acceptance, regardless of self reported driving distance, while also appearing to moderate the relationship between policy acceptance and environmental concern and political leaning, variables previously shown to be of relevance. The study suggests that the influence of habits needs to be recognized to better understand the formation of climate policy acceptance, and exploring this perspective paves the way for future research."
+        },
+        "subjects":[
+            "Environment",
+            "Environment, general",
+            "Ecology",
+            "Atmospheric Sciences",
+            "Physical Geography",
+            "Environmental Management",
+            "Environmental Engineering\/Biotechnology"
+        ],
+        "disciplines":[
+            {
+                "id":"3038",
+                "term":"Environmental Sciences"
+            },
+            {
+                "id":"3370",
+                "term":"Ecology"
+            },
+            {
+                "id":"3583",
+                "term":"Atmospheric Science"
+            },
+            {
+                "id":"4125",
+                "term":"Physical Geography"
+            },
+            {
+                "id":"3693",
+                "term":"Environmental Management"
+            },
+            {
+                "id":"4052",
+                "term":"Environmental Engineering\/Biotechnology"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s10750-024-05665-5",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s10750-024-05665-5"
+            }
+        ],
+        "title":"Recovery or reorganisation? Long-term increases in riverine taxonomic and functional diversity are confounded by compositional dynamics",
+        "creators":[
+            {
+                "ORCID":"0000-0001-7948-106X",
+                "creator":"Baker, Nathan J."
+            },
+            {
+                "ORCID":"0000-0003-1848-3154",
+                "creator":"Pilotto, Francesca"
+            },
+            {
+                "ORCID":"0000-0001-6944-3422",
+                "creator":"Welti, Ellen A. R."
+            },
+            {
+                "ORCID":"0009-0006-6199-9200",
+                "creator":"Osad\u010daja, Diana"
+            },
+            {
+                "ORCID":"0000-0002-4714-0305",
+                "creator":"Palinauskas, Vaidas"
+            }
+        ],
+        "publicationName":"Hydrobiologia",
+        "doi":"10.1007\/s10750-024-05665-5",
+        "publisher":"Springer",
+        "publisherName":"Springer International Publishing",
+        "publicationDate":"2025-04-01",
+        "publicationType":"Journal",
+        "issn":"0018-8158",
+        "eIssn":"1573-5117",
+        "volume":"852",
+        "number":"7",
+        "issueType":"Regular",
+        "topicalCollection":"",
+        "genre":[
+            "OriginalPaper",
+            "Primary Research Paper"
+        ],
+        "startingPage":"1693",
+        "endingPage":"1715",
+        "journalId":"10750",
+        "openAccess":"true",
+        "printDate":"2025-02-19",
+        "onlineDate":"2024-08-10",
+        "coverDate":"2025-04",
+        "copyright":"\u00a92024 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"When evaluating biological recovery, shifts in species identity such as non-native status, specialisation, and functional traits should be examined alongside changes in species richness. Lithuania, an ecologically overlooked region, serves as a crucial reservoir for boreal and glacial relict macroinvertebrates. We investigate how and why Lithuanian riverine communities have changed during the intensive period of\u00a0global environmental changes from 2010 to 2020. Using 41 time-series from Lithuanian rivers, we identified changes in taxonomic and functional diversity. Akin to biological recovery, we observed an overall increase in both taxonomic and functional diversity, likely due to improved water quality, evidenced by increased dissolved oxygen levels and reductions in toxic nitrogen and phosphorus products. However, increases in the richness and abundance of insect and indicator taxa were superseded by increases in non-insect taxa, including crustaceans, molluscs, and annelids. These compositional changes were attributed to climatic changes, notably rising temperatures and reduced discharge. Biodiversity responses to environmental changes were stronger in larger rivers, which are economically important and represent sentinels for further upstream changes. While improvements in water quality benefit various stakeholders and should continue, prioritising mitigation of global environmental change should be the top priority for global cooperation and management schemes."
+        },
+        "subjects":[
+            "Life Sciences",
+            "Freshwater & Marine Ecology",
+            "Ecology",
+            "Zoology"
+        ],
+        "disciplines":[
+            {
+                "id":"3512",
+                "term":"Freshwater and Marine Ecology"
+            },
+            {
+                "id":"3370",
+                "term":"Ecology"
+            },
+            {
+                "id":"3399",
+                "term":"Zoology"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s11367-025-02428-9",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s11367-025-02428-9"
+            }
+        ],
+        "title":"Carbon footprints of greenhouse gas mitigation measures for a grass-based beef cattle finishing system in the UK",
+        "creators":[
+            {
+                "ORCID":"0000-0001-6216-7242",
+                "creator":"Jebari, Asma"
+            },
+            {
+                "creator":"Takahashi, Taro"
+            },
+            {
+                "creator":"Lee, Michael R. F."
+            },
+            {
+                "creator":"Collins, Adrian L."
+            },
+            {
+                "creator":"Coleman, Kevin"
+            },
+            {
+                "creator":"Carswell, Alison"
+            },
+            {
+                "creator":"Segura, Carmen"
+            },
+            {
+                "creator":"Cardenas, Laura"
+            },
+            {
+                "creator":"McAuliffe, Graham A."
+            }
+        ],
+        "publicationName":"The International Journal of Life Cycle Assessment",
+        "doi":"10.1007\/s11367-025-02428-9",
+        "publisher":"Springer",
+        "publisherName":"Springer Berlin Heidelberg",
+        "publicationDate":"2025-04-01",
+        "publicationType":"Journal",
+        "issn":"0948-3349",
+        "eIssn":"1614-7502",
+        "volume":"30",
+        "number":"4",
+        "issueType":"Regular",
+        "topicalCollection":"",
+        "genre":[
+            "OriginalPaper",
+            "LCA FOR AGRICULTURE"
+        ],
+        "startingPage":"654",
+        "endingPage":"667",
+        "journalId":"11367",
+        "openAccess":"true",
+        "printDate":"2025-03-19",
+        "onlineDate":"2025-01-14",
+        "coverDate":"2025-04",
+        "copyright":"\u00a92025 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":[
+                "Purpose",
+                "Agri-food systems across the globe are faced with the challenge of reducing their supply-chain emissions of greenhouse gases (GHGs) such as nitrous oxide (N_2O), carbon dioxide (CO_2), and methane (CH_4). For instance, 10% of the UK\u2019s GHG emissions are generated by agriculture, and\u2009~\u200956% of these are generated by livestock production. Numerous mitigation measures are being proposed to reduce GHG emissions from ruminants (representing 70 to 80% of total livestock emissions), particularly from beef cattle (presenting 30\u201340% of total livestock emissions).",
+                "Methods",
+                "To explore such potential, first, a business-as-usual (BAU) partial cradle-to-finishing farmgate scale modelling framework was developed. The BAU systems (i.e. steady-state productivity based on primary data from the North Wyke Farm Platform) were built using ensemble modelling wherein the RothC process-based soil organic carbon (SOC) model was integrated into the life cycle assessment (LCA) framework to conduct a trade-off analysis related to mitigation measures applicable to the study system. Potential mitigation measures were applied to the BAU scenario. The interventions assessed included: (i) extensification; (ii) adopting anaerobic digestion technology; and (iii) the use of the nitrification inhibitor DCD and substitution of fertiliser nitrogen with symbiotically fixed nitrogen from legumes.",
+                "Results",
+                "The partial carbon footprint for 1\u00a0kg of beef liveweight gain leaving the farmgate could be reduced by 7.5%, 12%, or 26% by adopting nitrification inhibitors, white clover introduction (pending establishment success), and anaerobic digestion for manure management, respectively.",
+                "Conclusions",
+                "The findings highlight the importance of including emissions beyond the farmgate level to analyse the carbon footprint of different management scenarios in order to assess the sustainability of agri-food production systems."
+            ]
+        },
+        "subjects":[
+            "Environment",
+            "Environment, general",
+            "Environmental Economics",
+            "Environmental Engineering\/Biotechnology",
+            "Environmental Chemistry"
+        ],
+        "disciplines":[
+            {
+                "id":"3038",
+                "term":"Environmental Sciences"
+            },
+            {
+                "id":"4215",
+                "term":"Environmental Economics"
+            },
+            {
+                "id":"4052",
+                "term":"Environmental Engineering\/Biotechnology"
+            },
+            {
+                "id":"3597",
+                "term":"Environmental Chemistry"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s41463-024-00195-7",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s41463-024-00195-7"
+            }
+        ],
+        "title":"A Framework for Deep Resilience in the Anthropocene",
+        "creators":[
+            {
+                "ORCID":"0009-0001-8756-9288",
+                "creator":"Chungyalpa, Dekila"
+            },
+            {
+                "creator":"Gauthier, Pilar E."
+            },
+            {
+                "ORCID":"0000-0002-4957-2486",
+                "creator":"Goldman, Robin I."
+            },
+            {
+                "creator":"Vikas, M."
+            },
+            {
+                "ORCID":"0000-0002-6081-1636",
+                "creator":"Wilson-Mendenhall, Christine D."
+            }
+        ],
+        "publicationName":"Humanistic Management Journal",
+        "doi":"10.1007\/s41463-024-00195-7",
+        "publisher":"Springer",
+        "publisherName":"Springer International Publishing",
+        "publicationDate":"2025-04-01",
+        "publicationType":"Journal",
+        "issn":"2366-603X",
+        "eIssn":"2366-6048",
+        "volume":"10",
+        "number":"1",
+        "issueType":"Regular",
+        "topicalCollection":"",
+        "genre":[
+            "OriginalPaper",
+            "Original Research"
+        ],
+        "startingPage":"49",
+        "endingPage":"64",
+        "journalId":"41463",
+        "openAccess":"true",
+        "printDate":"2025-02-20",
+        "onlineDate":"2024-12-17",
+        "coverDate":"2025-04",
+        "copyright":"\u00a92024 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"This paper presents a conceptual framework proposed by the Loka Initiative for building inner, community, and planetary resilience as a unified vision and goal. Titled \u201cA Framework for Deep Resilience in the Anthropocene,\u201d the framework emerged from a three-day dialogue with over 40 researchers, academics, community experts, clinical psychologists, and contemplative leaders who participated in the Resilience in the Anthropocene Summit from August 8\u201310, 2023. We propose that a unified goal of inner, community, and planetary resilience is necessary to subvert and overturn systems built upon the unsustainable extraction and exploitation of natural resources, including humans. We posit that individuals, communities, organizations, Indigenous communities and faith groups, and governments can benefit from considering how they integrate this framework of Deep Resilience as part of their internal, strategic, design, and management decision-making processes."
+        },
+        "subjects":[
+            "Philosophy",
+            "Business Ethics",
+            "Business and Management, general",
+            "Management",
+            "Quality of Life Research"
+        ],
+        "disciplines":[
+            {
+                "id":"4718",
+                "term":"Business Ethics"
+            },
+            {
+                "id":"3120",
+                "term":"Business and Management"
+            },
+            {
+                "id":"3248",
+                "term":"Management"
+            },
+            {
+                "id":"4566",
+                "term":"Quality of Life Research"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s10346-024-02413-7",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s10346-024-02413-7"
+            }
+        ],
+        "title":"Optimising landslide trigger analysis through integration of diverse dendrogeomorphic approaches and multi-source climate and documentary data",
+        "creators":[
+            {
+                "ORCID":"0000-0002-8187-5313",
+                "creator":"Tichavsk\u00fd, Radek"
+            }
+        ],
+        "publicationName":"Landslides",
+        "doi":"10.1007\/s10346-024-02413-7",
+        "publisher":"Springer",
+        "publisherName":"Springer Berlin Heidelberg",
+        "publicationDate":"2025-04-01",
+        "publicationType":"Journal",
+        "issn":"1612-510X",
+        "eIssn":"1612-5118",
+        "volume":"22",
+        "number":"4",
+        "issueType":"Regular",
+        "topicalCollection":"",
+        "genre":[
+            "OriginalPaper",
+            "Original Paper"
+        ],
+        "startingPage":"1059",
+        "endingPage":"1076",
+        "journalId":"10346",
+        "openAccess":"true",
+        "printDate":"2025-03-08",
+        "onlineDate":"2024-11-29",
+        "coverDate":"2025-04",
+        "copyright":"\u00a92024 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"Landslides on forested slopes, which often lack extensive documentary data and monitoring, can be evaluated using tree-ring records. This method is commonly employed for assessing hydrometeorological triggers similar to sites with documentary-based landslide catalogues. However, uncertainties arise in setting dendrogeomorphic thresholds and using diverse climate data sources for trigger identification. This paper reconstructs the activity of six landslides using tree-ring records in a region with well-documented landsliding and long-term climate data from rain gauges. The objective was to test different dendrogeomorphic approaches for identifying landslide event year and to analyse various rain, snow, and soil moisture parameters from meteorological stations and climate reanalyses to identify triggers. This involved examining how variations in each research step affect results and potentially enhancing the interpretation of landslide triggers. Documentary data indicated frequent landsliding during spring and summer, while tree-ring chronologies showed the strongest connection to increased winter and spring precipitation measured by rain gauges, suggesting an enhancement of winter precipitation as a potential climate preparatory factor. Furthermore, the results showed that combining tree-ring and documentary data yielded more statistically informative links than using tree-ring data alone. Additionally, integrating gridded data from ERA5-Land climate reanalyses enhanced the interpretation of explanatory factors. While increased winter and spring precipitation were most strongly linked to landslide initiation using precipitation data, volumetric soil water content derived from reanalysis data was crucial for identifying summer landslide occurrences. Incorporating soil water content into dendrogeomorphic research improved the interpretation of landslide initiation timing. Therefore, regional tree-ring-based chronologies with improved identification of landslide triggers can significantly reduce uncertainties in decision-making when it comes to landslide hazard management. Future research should explore the effectiveness of freely available satellite-based precipitation data with tree-ring chronologies, particularly in regions with limited information on precipitation intensity."
+        },
+        "subjects":[
+            "Earth Sciences",
+            "Natural Hazards",
+            "Geography, general",
+            "Agriculture",
+            "Civil Engineering"
+        ],
+        "disciplines":[
+            {
+                "id":"3815",
+                "term":"Natural Hazards"
+            },
+            {
+                "id":"3857",
+                "term":"Geography"
+            },
+            {
+                "id":"2872",
+                "term":"Agriculture"
+            },
+            {
+                "id":"3586",
+                "term":"Civil Engineering"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s12187-024-10213-7",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s12187-024-10213-7"
+            }
+        ],
+        "title":"Associations of Perceived School and Year Group Climate with Mental Health Among Children Aged 7-to-11 Years",
+        "creators":[
+            {
+                "ORCID":"0000-0003-3307-1991",
+                "creator":"Donaldson, Caitlyn"
+            },
+            {
+                "ORCID":"0000-0002-8685-1177",
+                "creator":"Morgan, Kelly"
+            },
+            {
+                "ORCID":"0009-0002-4497-8070",
+                "creator":"Ouerghi, Safia"
+            },
+            {
+                "ORCID":"0000-0002-8603-2761",
+                "creator":"Lewis, James J."
+            },
+            {
+                "ORCID":"0000-0002-6136-3978",
+                "creator":"Moore, Graham"
+            }
+        ],
+        "publicationName":"Child Indicators Research",
+        "doi":"10.1007\/s12187-024-10213-7",
+        "publisher":"Springer",
+        "publisherName":"Springer Netherlands",
+        "publicationDate":"2025-04-01",
+        "publicationType":"Journal",
+        "issn":"1874-897X",
+        "eIssn":"1874-8988",
+        "volume":"18",
+        "number":"2",
+        "issueType":"Regular",
+        "topicalCollection":"",
+        "genre":"OriginalPaper",
+        "startingPage":"885",
+        "endingPage":"904",
+        "journalId":"12187",
+        "openAccess":"true",
+        "printDate":"2025-03-13",
+        "onlineDate":"2025-01-08",
+        "coverDate":"2025-04",
+        "copyright":"\u00a92025 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"Schools are an important setting for interventions to improve mental health. There is growing evidence that school climate \u2013 sometimes expressed as the perceptions that children have about the relationships, safety, values, and beliefs within their school \u2013 can impact child mental health. Poor child mental health is associated with feelings of distress as well deficits in functioning. However, while most studies have focused on school climate, climate at lower levels of nesting, including year group, may be important. Cross-sectional data on emotional and behavioural difficulties from 32,606 children in primary schools in Wales (ages 7\u201311, year groups 3\u20136) were collected via a school survey, delivered online and within the classroom environment to all children who consented, and analysed using multilevel modelling. Models were then extended to consider how aggregated measures of year group and school climate are associated with mental health outcomes. The unadjusted variance partition coefficients (VPCs) indicated that 2.8% of the variance in emotional difficulties and 3.2% in behavioural difficulties were attributable to differences in the year group, while school-level differences represented 2.4% and 3.5%, respectively. More positive year group and school climate were associated with more positive mental health outcomes. School and year group climate are independently associated with primary school children\u2019s mental health. Interventions to support mental health should aim to optimise the whole school climate, as well as climate within year group clusters."
+        },
+        "subjects":[
+            "Social Sciences",
+            "Quality of Life Research",
+            "Social Sciences, general",
+            "Social Work",
+            "Child and School Psychology",
+            "Quality of Life Research",
+            "Early Childhood Education"
+        ],
+        "disciplines":[
+            {
+                "id":"4566",
+                "term":"Quality of Life Research"
+            },
+            {
+                "id":"2891",
+                "term":"Society"
+            },
+            {
+                "id":"46732",
+                "term":"Social Work"
+            },
+            {
+                "id":"7646",
+                "term":"School Psychology"
+            },
+            {
+                "id":"3930",
+                "term":"Early Childhood Education"
+            }
+        ]
+    },
+    {
+        "contentType":"Article",
+        "identifier":"doi:10.1007\/s10933-024-00338-8",
+        "language":"en",
+        "url":[
+            {
+                "format":"",
+                "platform":"",
+                "value":"http:\/\/dx.doi.org\/10.1007\/s10933-024-00338-8"
+            }
+        ],
+        "title":"Diatom dynamics during the last six centuries in Lake Odensj\u00f6n: a new varved sediment record from southern Sweden",
+        "creators":[
+            {
+                "ORCID":"0009-0000-0569-9007",
+                "creator":"Silvester, Ethan L."
+            },
+            {
+                "ORCID":"0000-0002-4290-7933",
+                "creator":"Ljung, Karl"
+            },
+            {
+                "ORCID":"0000-0002-7900-309X",
+                "creator":"Bindler, Richard"
+            },
+            {
+                "creator":"Hertzman, Hanna"
+            },
+            {
+                "ORCID":"0009-0001-0570-7748",
+                "creator":"Lodi, Giulia"
+            },
+            {
+                "ORCID":"0000-0001-7147-8173",
+                "creator":"Hammarlund, Dan"
+            }
+        ],
+        "publicationName":"Journal of Paleolimnology",
+        "doi":"10.1007\/s10933-024-00338-8",
+        "publisher":"Springer",
+        "publisherName":"Springer Netherlands",
+        "publicationDate":"2025-04-01",
+        "publicationType":"Journal",
+        "issn":"0921-2728",
+        "eIssn":"1573-0417",
+        "volume":"73",
+        "number":"2",
+        "issueType":"Regular",
+        "topicalCollection":"",
+        "genre":[
+            "OriginalPaper",
+            "Original paper"
+        ],
+        "startingPage":"89",
+        "endingPage":"109",
+        "journalId":"10933",
+        "openAccess":"true",
+        "printDate":"2025-03-08",
+        "onlineDate":"2024-09-02",
+        "coverDate":"2025-04",
+        "copyright":"\u00a92024 The Author(s)",
+        "abstract":{
+            "h1":"Abstract",
+            "p":"Varved lake sediments offer valuable insight into past environmental conditions with high temporal resolution and precise chronological control. A combination of diatom and geochemical analyses of the recently deposited sediments of Odensj\u00f6n, a small dimictic lake in southern Sweden, shows alternating light and dark laminae composed of greater amounts of biogenic silica and organic matter, respectively. As confirmed by independent radiometric dating and Pb pollution data, and supported by scanning electron microscopy of individual laminae, these features represent ongoing deposition of biogenic varves. Corresponding diatom and geochemical data obtained from a 92-cm long freeze core provide evidence of substantial lake-ecosystem dynamics during the last six centuries, related mainly to variations in light penetration and wind shear driven by human-induced changes in catchment vegetation. The diatom assemblage of Odensj\u00f6n\u2019s varved sediments is dominated by planktonic species, primarily Asterionella formosa, Fragilaria saxoplanktonica and Discostella lacuskarluki during periods of forest cover, while increased catchment openness from the mid-1500s to the late 1800s led to increased abundance of Lindavia comensis . Long-term variations in climate and land use, mediated through changing length of the ice-cover season and nutrient input, respectively, probably contributed to the observed trends, as well as to variations in the appearance and visibility of the varve record across the sampled sediment sequence. Odensj\u00f6n represents the southernmost varved sediment record in Fennoscandia documented to date, offering potential to study the effects of various types of external forcing on its sensitive lacustrine ecosystem since the Late Weichselian deglaciation. In the present study, we investigated the possibility of assessing the local impacts of two major, historically documented volcanic events, Laki 1783\u201384 and Tambora 1815, which are known to have affected European societies. Although the mildly alkaline waters of the lake are well buffered and hence relatively resilient to volcanic acid deposition, a minor response to the Laki eruption may be recorded in the diatom stratigraphy."
+        },
+        "subjects":[
+            "Earth Sciences",
+            "Paleontology",
+            "Sedimentology",
+            "Climate Change",
+            "Physical Geography",
+            "Freshwater & Marine Ecology",
+            "Geology"
+        ],
+        "disciplines":[
+            {
+                "id":"6297",
+                "term":"Paleontology"
+            },
+            {
+                "id":"5679",
+                "term":"Sedimentology"
+            },
+            {
+                "id":"3038",
+                "term":"Environmental Sciences"
+            },
+            {
+                "id":"4125",
+                "term":"Physical Geography"
+            },
+            {
+                "id":"3512",
+                "term":"Freshwater and Marine Ecology"
+            },
+            {
+                "id":"3981",
+                "term":"Geology"
+            }
+        ]
+    }
+]
