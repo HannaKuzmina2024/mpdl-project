@@ -1,25 +1,109 @@
-# Data Engineering Project
+## 📌 Research Metadata Analysis Using Springer Nature Open Access API  
+### 🚀 A Big Data Analytics Project for Research Information Management  
+   
+________________________________________
+#### 🔹 Overview
+This project demonstrates Big Data Analytics in Research Information Management by:  
+
+  
+✅ Mining Open Access research metadata using the Springer Nature API  
+✅ Cleaning & structuring metadata for efficient analysis  
+✅ Storing data in PostgreSQL for structured querying  
+✅ Performing Exploratory Data Analysis (EDA) to identify trends in scientific research  
+✅ Deploying results using GitHub Pages for a visual showcase  
+✅ The project was created with a Jupyter notebook which is available in this repo  
+  
+📌 Primary Goal:  
+To analyze climate change research trends, discover top authors, journals, and keywords, and build a structured research data pipeline.  
+________________________________________
+#### 🔹 Project Workflow  
+Step 1: Data Ingestion & API Integration  
+🔹 Extract research metadata (titles, authors, journals, subjects) from the Springer Nature Open Access API.  
+🔹 Store raw data in JSON/CSV format for processing.  
+Step 2: Data Cleaning & Transformation  
+🔹 Flatten nested JSON fields (e.g., authors, subjects, URLs).  
+🔹 Handle missing values and ensure structured data format.  
+Step 3: Storing Data in PostgreSQL  
+🔹 Define a PostgreSQL schema for structured storage.  
+🔹 Insert cleaned metadata into PostgreSQL tables.  
+🔹 Verify data integrity using SQL queries.  
+Step 4: Exploratory Data Analysis (EDA)  
+🔹 Analyze research publication trends over time.  
+🔹 Identify top journals, most cited authors, and key topics.  
+🔹 Generate visualizations using Pandas & Matplotlib.  
+Step 5: Deployment & GitHub Pages  
+🔹 Showcase project results via GitHub Pages.  
+🔹 Provide an interactive index.html summary page.  
+________________________________________
+#### 🔹 Technologies Used  
+📌 Programming & Scripting:  
+•	Python (pandas, requests, matplotlib, psycopg2)  
+•	Jupyter Notebook for interactive data analysis  
+📌 Database & Storage:  
+•	PostgreSQL for structured research metadata storage  
+•	GitHub Pages for project showcase  
+📌 APIs & Data Sources:  
+•	Springer Nature Open Access API for metadata extraction   
+•	GitHub for project version control & hosting  
+________________________________________
+#### 🔹 Setup & Installation  
+Step 1: Clone the Repository  
+git clone https://github.com/HannaKuzmina2024/mpdl-project.git  
+cd  mpdl-project  
+Step 2: Set Up a Virtual Environment  
+python -m venv venv  
+source venv/bin/activate    # Mac/Linux  
+venv\Scripts\activate       # Windows  
+Step 3: Install Dependencies  
+pip install -r requirements.txt  
+Step 4: Set Up PostgreSQL Database  
+1.	Start PostgreSQL (pgAdmin or CLI).  
+2.	Create a new database:   
+3.	CREATE DATABASE research_metadata;  
+4.	Create the required table:   
+5.	CREATE TABLE research_articles (
+
+id SERIAL PRIMARY KEY,  
+content_type TEXT,  
+identifier TEXT UNIQUE,  
+language TEXT,  
+url TEXT,  
+title TEXT,  
+creators TEXT,  
+publication_name TEXT,  
+subjects TEXT  
+    
+);  
+Step 5: Configure API Key & Database Credentials  
+1.	Create a .env file:   
+2.	touch .env  
+3.	Add your credentials:   
+4.	SPRINGER_API_KEY=your-api-key-here  
+5.	POSTGRES_PASSWORD=your-database-password-here  
+   
+Step 6:  Open Jupyter Notebook and execute the cells.  
+(I am using Jupyter notebook in VS.code)  
+
+________________________________________
+ 
+🔹 Most Frequent Research Journals    
 
 
-In this groundbreaking AWS Data Engineering series, we delve into the intricacies of building a robust real-time data pipeline using DynamoDB, Snowflake, and AWS Lambda. The content unfolds as a captivating narrative, showcasing hands-on demonstrations, step-by-step tutorials, and expert insights.
+![mostfrequentjournals](https://github.com/user-attachments/assets/7af0914d-55c1-4b5d-b525-debd56893320)
 
-1. **Introduction to DynamoDB and Snowflake Integration:**
-   Explore the fundamentals of DynamoDB and Snowflake, understanding their unique strengths and how they seamlessly integrate to form a powerful data ecosystem.
+🔹 Most Published Authors    
 
-2. **Leveraging AWS Lambda Functions:**
-   Witness the dynamic capabilities of AWS Lambda as we demonstrate its role in orchestrating the real-time flow of data. Learn how to design Lambda functions that efficiently process and transmit data.
 
-3. **Ingesting Real-Time Data from a Weather API:**
-   Step into the world of real-time data by integrating a weather API. Follow along as we guide you through the process of ingesting this data into DynamoDB, setting the stage for the next level of data processing.
+![mostpublished authors](https://github.com/user-attachments/assets/40f8c1a8-ec14-406a-b1d1-898c7dfa26da)
 
-4. **Seamless Transmission to Snowflake using Snowpipe:**
-   Experience the magic of Snowpipe as we showcase its role in seamlessly transmitting data from DynamoDB to Snowflake in real-time. Learn how to optimize this process for maximum efficiency.
+🔹 Example Visualization
 
-5. **Optimizing and Scaling the Data Pipeline:**
-   Delve into best practices for optimizing and scaling your data pipeline. Explore strategies to enhance performance, ensure data integrity, and accommodate the evolving needs of your projects.
 
-6. **Troubleshooting and Best Practices:**
-   Equip yourself with troubleshooting skills and industry best practices to overcome common challenges in real-world scenarios. Learn how to ensure the reliability and resilience of your data pipeline.
+![top10](https://github.com/user-attachments/assets/48e17fbe-9b73-447f-9926-2143a4a6a653)
 
-7. **Advanced Concepts and Future Trends:**
-   Explore advanced concepts and emerging trends in AWS Data Engineering. Stay ahead of the curve by understanding the latest technologies and their potential impact on data engineering practices.
+
+________________________________________
+🔹 Author:   
+👤 Hanna Kuzmina
+
+
