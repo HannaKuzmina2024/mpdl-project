@@ -37,7 +37,7 @@ Step 5: Deployment & GitHub Pages
 ________________________________________
 #### 🔹 Technologies Used  
 Programming & Scripting:  
-•	Python (pandas, requests, matplotlib, psycopg2)  
+•	Python (pandas, matplotlib, psycopg2)  
 •	Jupyter Notebook for interactive data analysis  
 Database & Storage:  
 •	PostgreSQL for structured research metadata storage  
