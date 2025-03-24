@@ -10,8 +10,8 @@ This project demonstrates Big Data Analytics in Research Information Management 
 ✅ Cleaning & structuring metadata for efficient analysis  
 ✅ Storing data in PostgreSQL for structured querying  
 ✅ Performing Exploratory Data Analysis (EDA) to identify trends in scientific research  
-✅ Deploying results using GitHub Pages for a visual showcase  
-✅ The project was created with a Jupyter notebook which is available in this repo  
+✅ Deploying results using GitHub for a visual showcase  
+✅ The project was created with a Jupyter notebook, the file is available in this repo  
   
  Primary Goal:  
 To analyze climate change research trends, discover top authors, journals, and keywords, and build a structured research data pipeline.  
