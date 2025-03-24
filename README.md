@@ -41,7 +41,7 @@ Programming & Scripting:
 •	Jupyter Notebook for interactive data analysis  
 Database & Storage:  
 •	PostgreSQL for structured research metadata storage  
-•	GitHub Pages for project showcase  
+•	GitHub for project showcase  
 APIs & Data Sources:  
 •	Springer Nature Open Access API for metadata extraction   
 •	GitHub for project version control & hosting  
