@@ -1,5 +1,5 @@
-## 📌 Research Metadata Analysis Using Springer Nature Open Access API  
-### 🚀 A Big Data Analytics Project for Research Information Management  
+##  Research Metadata Analysis Using Springer Nature Open Access API  
+###  A Big Data Analytics Project for Research Information Management  
    
 ________________________________________
 #### 🔹 Overview
@@ -13,7 +13,7 @@ This project demonstrates Big Data Analytics in Research Information Management 
 ✅ Deploying results using GitHub Pages for a visual showcase  
 ✅ The project was created with a Jupyter notebook which is available in this repo  
   
-📌 Primary Goal:  
+ Primary Goal:  
 To analyze climate change research trends, discover top authors, journals, and keywords, and build a structured research data pipeline.  
 ________________________________________
 #### 🔹 Project Workflow  
@@ -36,13 +36,13 @@ Step 5: Deployment & GitHub Pages
 🔹 Provide an interactive index.html summary page.  
 ________________________________________
 #### 🔹 Technologies Used  
-📌 Programming & Scripting:  
+Programming & Scripting:  
 •	Python (pandas, requests, matplotlib, psycopg2)  
 •	Jupyter Notebook for interactive data analysis  
-📌 Database & Storage:  
+Database & Storage:  
 •	PostgreSQL for structured research metadata storage  
 •	GitHub Pages for project showcase  
-📌 APIs & Data Sources:  
+APIs & Data Sources:  
 •	Springer Nature Open Access API for metadata extraction   
 •	GitHub for project version control & hosting  
 ________________________________________
@@ -102,8 +102,6 @@ ________________________________________
 ![top10](https://github.com/user-attachments/assets/48e17fbe-9b73-447f-9926-2143a4a6a653)
 
 
-________________________________________
-🔹 Author:   
-👤 Hanna Kuzmina
+
 
 
