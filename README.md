@@ -31,9 +31,8 @@ Step 4: Exploratory Data Analysis (EDA)
 🔹 Analyze research publication trends over time.  
 🔹 Identify top journals, most cited authors, and key topics.  
 🔹 Generate visualizations using Pandas & Matplotlib.  
-Step 5: Deployment & GitHub Pages  
-🔹 Showcase project results via GitHub Pages.  
-🔹 Provide an interactive index.html summary page.  
+Step 5: Deployment & GitHub repository  
+🔹 Showcase project results on GitHub.  
 ________________________________________
 #### 🔹 Technologies Used  
 Programming & Scripting:  
